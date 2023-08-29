@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+}
+.url-cursor{
+    color: blue;
+    cursor: help;
+}
+.container{
+    height: 500px;
+    border: 1px solid gainsboro;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+    flex-direction: row-reverse;
+}
+.box{
+    align-items: center;
+    height: 80px;
+    width: 150px;
+    background-color: rebeccapurple;
+}
+.box1{
+    background-color: gray;
+}
+.box2{
+    background-color: yellowgreen;
+}
