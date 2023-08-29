@@ -60,3 +60,19 @@
     cursor: pointer;
     background-color: rgba(255, 0, 0, 0.473);
 }
+/* about style */
+.about-container{
+    height: 60vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+.about-title{
+    text-align: center;
+    padding-top: 50px;
+}
+.info-title{
+    font-size: 35px;
+    margin-bottom: 20px;
+}
